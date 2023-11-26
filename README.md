@@ -24,9 +24,19 @@ Hello, I'm Mouad, an IT student with a passion for coding and open source projec
     </thead>
     <tbody>
          <tr>
-            <td><a href="https://github.com/Mkfayoub/42-Libft">Libft</td>
+            <td><a href="https://github.com/mouadelbh/libft">Libft</td>
             <td> ✅ </td>
-            <td><a href="https://github.com/Mkfayoub/42-libft"><img src="https://github.com/Mkfayoub/42-libft/blob/main/libft-bonus.png" alt="libft" width="75"/></a></td>
+            <td><a href="https://github.com/mouadelbh/libft"><img src="https://github.com/Mkfayoub/42-libft/blob/main/libft-bonus.png" alt="libft" width="75"/></a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/mouadelbh/Printf">Printf</td>
+            <td> ✅ </td>
+            <td><a href="https://github.com/mouadelbh/Printf"><img src="https://github.com/Mkfayoub/42-libft/blob/main/libft-bonus.png" alt="libft" width="75"/></a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/mouadelbh/get_next_line">get_next_line</td>
+            <td> ✅ </td>
+            <td><a href="https://github.com/mouadelbh/get_next_line"><img src="https://github.com/Mkfayoub/42-libft/blob/main/libft-bonus.png" alt="libft" width="75"/></a></td>
         </tr>
 </table>
 
