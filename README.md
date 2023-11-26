@@ -31,12 +31,12 @@ Hello, I'm Mouad, an IT student with a passion for coding and open source projec
         <tr>
             <td><a href="https://github.com/mouadelbh/Printf">Printf</td>
             <td> ✅ </td>
-            <td><a href="https://github.com/mouadelbh/Printf"><img src="https://github.com/Mkfayoub/42-libft/blob/main/libft-bonus.png" alt="libft" width="75"/></a></td>
+            <td>100%</td>
         </tr>
         <tr>
             <td><a href="https://github.com/mouadelbh/get_next_line">get_next_line</td>
             <td> ✅ </td>
-            <td><a href="https://github.com/mouadelbh/get_next_line"><img src="https://github.com/Mkfayoub/42-libft/blob/main/libft-bonus.png" alt="libft" width="75"/></a></td>
+            <td>125%</td>
         </tr>
 </table>
 
