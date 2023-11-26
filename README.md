@@ -4,7 +4,7 @@
 
 -# My GitHub Profile
 
-Hello, I'm Mouad, an it student with a passion for coding and open source projects.
+Hello, I'm Mouad, an IT student with a passion for coding and open source projects.
 
 
 
