@@ -4,7 +4,7 @@
 
 -# My GitHub Profile
 
-Hello, I'm Mouad, an IT student with a passion for coding and open source projects.
+Hello, I'm Mouad, an IT student in the 42 network with a passion for coding and open source projects.
 
 
 
@@ -37,6 +37,16 @@ Hello, I'm Mouad, an IT student with a passion for coding and open source projec
             <td><a href="https://github.com/mouadelbh/get_next_line">get_next_line</td>
             <td> ✅ </td>
             <td>125%</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/mouadelbh/So_long">So_long</td>
+            <td> ✅ </td>
+            <td>125%</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/mouadelbh/minitalk">minitalk</td>
+            <td> ✅ </td>
+            <td>100%</td>
         </tr>
 </table>
 
