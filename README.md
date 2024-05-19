@@ -48,6 +48,11 @@ Hello, I'm Mouad, an IT student in the 42 network with a passion for coding and 
             <td> ✅ </td>
             <td>100%</td>
         </tr>
+        <tr>
+            <td><a href="https://github.com/mouadelbh/Push_Swap">Push_Swap</td>
+            <td> ✅ </td>
+            <td>100%</td>
+        </tr>
 </table>
 
 ## Contact
